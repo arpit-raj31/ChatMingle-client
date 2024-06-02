@@ -7,7 +7,11 @@ Create folders:
 Make two directories: client and server.
 Navigate into the client directory: cd client
 
-https://github.com/arpit-raj31/ChatMingle-Frontent/assets/130226536/848c8020-276d-4a29-b3ba-d627b378aa2f
+https://github.com/arpit-raj31/ChatMingle-Frontent/assets/1302
+
+https://github.com/arpit-raj31/ChatMingle-Frontent/assets/130226536/b7b6e4b2-6e21-4950-8501-66c795b00f97
+
+26536/848c8020-276d-4a29-b3ba-d627b378aa2f
 
 
 Initialize Vite project:
